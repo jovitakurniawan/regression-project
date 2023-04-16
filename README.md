@@ -42,7 +42,7 @@ Detailed analysis can be found in this [jupyter notebook](https://github.com/jov
 
 ## Findings 
 
-Findings are summarized into a [slideck](https://github.com/jovitakurniawan/eda-us-medicalcharges/blob/main/EDA%20into%20Medical%20Charges%20Data%20in%20US.pdf)  
+Findings are summarized into a [slideck](https://github.com/jovitakurniawan/regression-project/blob/main/EDA%20and%20Regression%20Model%20for%20US%20Medical%20Charges.pdf)  
 
 
 ## Tools  
